@@ -1,0 +1,1 @@
+const dev1 = 'initialize1';
